@@ -10,14 +10,16 @@ Inspired by https://github.com/xandrade/Talkpython.fm-Notable-Packages- & based 
 
 ## Typing, hints, annotations and more
 
-*[Pydantic](https://pydantic-docs.helpmanual.io/) - Data validation and settings management using Python type annotations.
+* [Pydantic](https://pydantic-docs.helpmanual.io/) - Data validation and settings management using Python type annotations.
 
 ## Workflows & QA
 
-* [Pytest](https://docs.pytest.org/en/)
+* [Pytest](https://docs.pytest.org/en/) - The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
+* [Faker](https://faker.readthedocs.io/en/master/) - Faker is a Python package that generates fake data for you.
 * [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) - Python library for creating unit tests which are simpler to write and more powerful when run, finding edge cases in your code you wouldn’t have thought to look for.
 * [Pants](https://www.pantsbuild.org/docs/welcome-to-pants#who-is-pants-for) - Fast, scalable, user-friendly build and developer workflow system for codebases of all sizes, including yours!
 * [Schemathesis](https://schemathesis.readthedocs.io/en/stable/) - Specification-centric API testing tool for Open API and GraphQL-based applications.
+* [factory_boy](https://factoryboy.readthedocs.io/en/stable/) - As a fixtures replacement tool, it aims to replace static, hard to maintain fixtures with easy-to-use factories for complex objects.
 * [MyPy](http://mypy-lang.org/) - Optional static type checker for Python that aims to combine the benefits of dynamic (or "duck").
 * [Black](https://github.com/psf/black) - The uncompromising Python code formatter. 
 
