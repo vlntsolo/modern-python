@@ -22,6 +22,7 @@ Inspired by https://github.com/xandrade/Talkpython.fm-Notable-Packages- & based 
 * [factory_boy](https://factoryboy.readthedocs.io/en/stable/) - As a fixtures replacement tool, it aims to replace static, hard to maintain fixtures with easy-to-use factories for complex objects.
 * [MyPy](http://mypy-lang.org/) - Optional static type checker for Python that aims to combine the benefits of dynamic (or "duck").
 * [Black](https://github.com/psf/black) - The uncompromising Python code formatter. 
+* [Grafana Phlare](https://grafana.com/oss/phlare/) - Grafana Phlare lets you aggregate continuous profiling data with high availability, multi-tenancy, and durable storage. This helps you get a better understanding of resource usage in your applications down to the line number.
 
 ## ORMs & ODMs
 
